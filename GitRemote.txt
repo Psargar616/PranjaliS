@@ -1,0 +1,10 @@
+1. GitHub Account
+2. Empty repo (add files and commit them)
+3. connect local system to remote 
+	$ git remote add origin https://github.com/Psargar616/PranjaliS.git
+3. local system 
+	a. $ git config --global user.name "Psargar616"
+	b. $ git config --global user.email "sargarpranjali@gmail.com"
+4. git push -u origin master
+	a. username -> Psargar616
+	b. password -> "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"
